@@ -17,3 +17,19 @@ __________
 * [Calcula juros compostos](https://github.com/AguineloP/AP1/blob/ae65bfe035fa8136cff71dc8cbdf276b03432fed/Lista%202/Juros.c)
 * [Calcula o desconto aplicado em um produto](https://github.com/AguineloP/AP1/blob/2e7bc9276819e26222deab414844bcf0b9991abd/Lista%202/desconto.c)
 * [Converte o valor de real para dólar](https://github.com/AguineloP/AP1/blob/5c4c1a5867eefd44d05acddbd78b4d96613945b0/Lista%202/dolar.c)
+__________
+## Lista 3
+
+* [Calcula o IMC e escreve qual a categoria da pessoa](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/IMC2.c)
+* [Verifica se a pessoa pode dirigir](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/carteira.c)
+* [Verifica se o aluno foi aprovado ou não baseado nas notas e faltas](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/nota_Presen%C3%A7a.c)
+* [Verifica se um ano é bissexto ou não](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/ano_Bissexto.c)
+* [Verifica se um número é par ou ímpar](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/par_%C3%ADmpar.c)
+## Lista 4
+* [Escreve na tela o mês do ano de acordo com o número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
+* [Uma calculadora simples](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/calculadora.c)
+* [Escreve uma saudação na tela de acordo com o horário digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/hor%C3%A1rio.c)
+* [Escreve na tela se o número é nulo, positivo ou negativo](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/pos_neg.c)
+* [Escreve na tela uma avaliação baseada número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
+
+__________
