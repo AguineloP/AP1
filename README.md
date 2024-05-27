@@ -1,6 +1,9 @@
 # AP1
 Repositório criado com o intuito de armazenar os códigos feitos na matéria de Algoritmos e Programação 1 do curso de Ciência da Computação, na Universidade Federal de Jataí (UFJ).
 
+## Provas
+* [Prova 1](https://github.com/AguineloP/AP1/blob/5246757c194d4cd0ad9164311433889f466ef3dc/Provas/Prova1%20-%20AP1.c)
+__________
 ## Lista 1
 __________
 * [Calcula a área de um círculo](https://github.com/AguineloP/AP1/blob/a280c82f984ba9fea1db241d79161ba13fe25017/Lista%201/c%C3%ADrculo.c)  
@@ -31,5 +34,5 @@ __________
 * [Escreve uma saudação na tela de acordo com o horário digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/hor%C3%A1rio.c)
 * [Escreve na tela se o número é nulo, positivo ou negativo](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/pos_neg.c)
 * [Escreve na tela uma avaliação baseada número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
-
 __________
+
