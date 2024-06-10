@@ -1,6 +1,6 @@
 # AP1 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="80" height="80"/>
 Repositório criado com o intuito de armazenar os códigos feitos na matéria de Algoritmos e Programação 1 do curso de Ciência da Computação, na Universidade Federal de Jataí (UFJ).
-
+__________
 ## Provas
 * [Prova 1](https://github.com/AguineloP/AP1/blob/5246757c194d4cd0ad9164311433889f466ef3dc/Provas/Prova1%20-%20AP1.c)
 __________
