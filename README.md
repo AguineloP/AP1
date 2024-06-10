@@ -1,4 +1,4 @@
-# AP1
+# AP1 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="80" height="80"/>
 Repositório criado com o intuito de armazenar os códigos feitos na matéria de Algoritmos e Programação 1 do curso de Ciência da Computação, na Universidade Federal de Jataí (UFJ).
 
 ## Provas
@@ -28,6 +28,7 @@ __________
 * [Verifica se o aluno foi aprovado ou não baseado nas notas e faltas](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/nota_Presen%C3%A7a.c)
 * [Verifica se um ano é bissexto ou não](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/ano_Bissexto.c)
 * [Verifica se um número é par ou ímpar](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/par_%C3%ADmpar.c)
+__________
 ## Lista 4
 * [Escreve na tela o mês do ano de acordo com o número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
 * [Uma calculadora simples](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/calculadora.c)
@@ -35,4 +36,6 @@ __________
 * [Escreve na tela se o número é nulo, positivo ou negativo](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/pos_neg.c)
 * [Escreve na tela uma avaliação baseada número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
 __________
-
+## Lista 5
+* [Lista 5A](https://github.com/AguineloP/AP1/blob/a75412fd97d5f4ee31076c6ba0a21605df3760a1/Lista%205/lista%20A.c)
+* [Lista 5B](https://github.com/AguineloP/AP1/blob/a75412fd97d5f4ee31076c6ba0a21605df3760a1/Lista%205/lista%20B.c)
