@@ -31,11 +31,18 @@ __________
 __________
 ## Lista 4
 * [Escreve na tela o mês do ano de acordo com o número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
-* [Uma calculadora simples](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/calculadora.c)
-* [Escreve uma saudação na tela de acordo com o horário digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/hor%C3%A1rio.c)
 * [Escreve na tela se o número é nulo, positivo ou negativo](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/pos_neg.c)
 * [Escreve na tela uma avaliação baseada número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
+* [Escreve uma saudação na tela de acordo com o horário digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/hor%C3%A1rio.c)
+* [Uma calculadora simples](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/calculadora.c)
 __________
 ## Lista 5
 * [Lista 5A](https://github.com/AguineloP/AP1/blob/a75412fd97d5f4ee31076c6ba0a21605df3760a1/Lista%205/lista%20A.c)
 * [Lista 5B](https://github.com/AguineloP/AP1/blob/a75412fd97d5f4ee31076c6ba0a21605df3760a1/Lista%205/lista%20B.c)
+__________
+## Lista 6
+* [Calcula a média de alguns valores digitados pelo usuário](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/media_vetor.c)
+* [Encontra um número específico em meio a uma sequência](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/encontrar_numero.c)
+* [Pede ao usuário uma lista de números e escreve na tela o dobro de cada um](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/dobro.c)
+* [Pede ao usuário uma lista de números e escreve na tela o maior e o menor](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/maior_menor.c)
+* [Pede ao usuáiro uma lista de números e a reescreve na ordem inversa](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/ordem_inversa.c)
