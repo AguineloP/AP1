@@ -1,5 +1,4 @@
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/Adventure%20Time%201.gif" alt="Adventure Time">
-
+![maguinhos](https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/Adventure%20Time%201.gif)
 
 # AP1
 Repositório criado com o intuito de armazenar os códigos feitos na matéria de Algoritmos e Programação 1 do curso de Ciência da Computação, na Universidade Federal de Jataí (UFJ).
