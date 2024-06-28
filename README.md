@@ -81,7 +81,7 @@ __________
 ## Lista 7
 <img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 1](https://github.com/AguineloP/AP1/blob/94856193f7fb3a5974b46cfa331210d057a8e076/Lista%207/Quest%C3%A3o1.c)
 
-<!--<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 2](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/encontrar_numero.c)-->
+<!-- <img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 2](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/encontrar_numero.c) -->
 
 <img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 3](https://github.com/AguineloP/AP1/blob/94856193f7fb3a5974b46cfa331210d057a8e076/Lista%207/Quest%C3%A3o3.c)
 
