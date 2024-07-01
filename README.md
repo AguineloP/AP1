@@ -5,6 +5,7 @@ Repositório criado com o intuito de armazenar os códigos feitos na matéria de
 __________
 ## Provas 
 <img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align="center"> [Prova 1](https://github.com/AguineloP/AP1/blob/5246757c194d4cd0ad9164311433889f466ef3dc/Provas/Prova1%20-%20AP1.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align="center"> [PDF Prova](https://github.com/AguineloP/AP1/blob/main/Provas/Prova%2001%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf)
 __________
 ## Lista 1
 __________
@@ -37,52 +38,65 @@ __________
 __________
 ## Lista 3
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Calcula o IMC e escreve qual a categoria da pessoa](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/IMC2.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Calcula o IMC e escreve qual a categoria da pessoa](https://github.com/AguineloP/AP1/blob/main/Lista%203/IMC2.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se a pessoa pode dirigir](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/carteira.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se a pessoa pode dirigir](https://github.com/AguineloP/AP1/blob/main/Lista%203/carteira.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se o aluno foi aprovado ou não baseado nas notas e faltas](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/nota_Presen%C3%A7a.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se o aluno foi aprovado ou não baseado nas notas e faltas](https://github.com/AguineloP/AP1/blob/main/Lista%203/nota_Presen%C3%A7a.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se um ano é bissexto ou não](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/ano_Bissexto.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se um ano é bissexto ou não](https://github.com/AguineloP/AP1/blob/main/Lista%203/ano_Bissexto.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se um número é par ou ímpar](https://github.com/AguineloP/AP1/blob/7cf7a8464f0a347497de5913592fd1848306be6f/Lista%203/par_%C3%ADmpar.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Verifica se um número é par ou ímpar](https://github.com/AguineloP/AP1/blob/main/Lista%203/par_%C3%ADmpar.c)
 
 __________
 ## Lista 4
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve na tela o mês do ano de acordo com o número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve na tela o mês do ano de acordo com o número digitado](https://github.com/AguineloP/AP1/blob/main/Lista%204/avalia%C3%A7%C3%A3o.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve na tela se o número é nulo, positivo ou negativo](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/pos_neg.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve na tela se o número é nulo, positivo ou negativo](https://github.com/AguineloP/AP1/blob/main/Lista%204/pos_neg.c)
  
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve na tela uma avaliação baseada número digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/avalia%C3%A7%C3%A3o.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve na tela uma avaliação baseada número digitado](https://github.com/AguineloP/AP1/blob/main/Lista%204/avalia%C3%A7%C3%A3o.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve uma saudação na tela de acordo com o horário digitado](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/hor%C3%A1rio.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Escreve uma saudação na tela de acordo com o horário digitado](https://github.com/AguineloP/AP1/blob/main/Lista%204/hor%C3%A1rio.c)
  
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Uma calculadora simples](https://github.com/AguineloP/AP1/blob/10e7ef3b5ab42d82a847f5ccf96356e41ec663ba/Lista%204/calculadora.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Uma calculadora simples](https://github.com/AguineloP/AP1/blob/main/Lista%204/calculadora.c)
 
 __________
 ## Lista 5
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Lista 5A](https://github.com/AguineloP/AP1/blob/a75412fd97d5f4ee31076c6ba0a21605df3760a1/Lista%205/lista%20A.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Lista 5A](https://github.com/AguineloP/AP1/blob/main/Lista%205/lista%20A.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Lista 5B](https://github.com/AguineloP/AP1/blob/a75412fd97d5f4ee31076c6ba0a21605df3760a1/Lista%205/lista%20B.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Lista 5B](https://github.com/AguineloP/AP1/blob/main/Lista%205/lista%20B.c)
 
 __________
 ## Lista 6
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Calcula a média de alguns valores digitados pelo usuário](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/media_vetor.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Calcula a média de alguns valores digitados pelo usuário](https://github.com/AguineloP/AP1/blob/main/Lista%206/media_vetor.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Encontra um número específico em meio a uma sequência](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/encontrar_numero.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Encontra um número específico em meio a uma sequência](https://github.com/AguineloP/AP1/blob/main/Lista%206/encontrar_numero.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Pede ao usuário uma lista de números e escreve na tela o dobro de cada um](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/dobro.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Pede ao usuário uma lista de números e escreve na tela o dobro de cada um](https://github.com/AguineloP/AP1/blob/main/Lista%206/dobro.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Pede ao usuário uma lista de números e escreve na tela o maior e o menor](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/maior_menor.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Pede ao usuário uma lista de números e escreve na tela o maior e o menor](https://github.com/AguineloP/AP1/blob/main/Lista%206/maior_menor.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Pede ao usuário uma lista de números e a reescreve na ordem inversa](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/ordem_inversa.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Pede ao usuário uma lista de números e a reescreve na ordem inversa](https://github.com/AguineloP/AP1/blob/main/Lista%206/ordem_inversa.c)
 
 __________
 ## Lista 7
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 1](https://github.com/AguineloP/AP1/blob/94856193f7fb3a5974b46cfa331210d057a8e076/Lista%207/Quest%C3%A3o1.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 1](https://github.com/AguineloP/AP1/blob/main/Lista%207/Quest%C3%A3o1.c)
 
-<!-- <img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 2](https://github.com/AguineloP/AP1/blob/8b8a3cbdf1535e46c4545c6479bf5ed4418d0a49/Lista%206/encontrar_numero.c) -->
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 2](https://github.com/AguineloP/AP1/blob/main/Lista%206/encontrar_numero.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 3](https://github.com/AguineloP/AP1/blob/94856193f7fb3a5974b46cfa331210d057a8e076/Lista%207/Quest%C3%A3o3.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 3](https://github.com/AguineloP/AP1/blob/main/Lista%207/Quest%C3%A3o3.c)
 
-<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 4](https://github.com/AguineloP/AP1/blob/94856193f7fb3a5974b46cfa331210d057a8e076/Lista%207/Quest%C3%A3o4.c)
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 4](https://github.com/AguineloP/AP1/blob/main/Lista%207/Quest%C3%A3o4.c)
+
+__________
+## Lista 8
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 1](https://github.com/AguineloP/AP1/blob/main/Lista%208/Quest%C3%A3o1.c)
+
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 2](https://github.com/AguineloP/AP1/blob/main/Lista%208/Quest%C3%A3o2.c)
+
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 3](https://github.com/AguineloP/AP1/blob/main/Lista%208/Quest%C3%A3o3.c)
+
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 4](https://github.com/AguineloP/AP1/blob/main/Lista%208/Quest%C3%A3o4.c)
+
+<img src="https://github.com/AguineloP/Images/blob/af149a487a56e89884d7b52c901c8c6c80d45809/JAKE.png?raw=true" alt="Ícone" width="20" height="20" align = "center"> [Questão 5](https://github.com/AguineloP/AP1/blob/main/Lista%208/Quest%C3%A3o5.c)
+
