@@ -5,8 +5,10 @@
 ### Repositório criado com o intuito de armazenar os códigos feitos na matéria de Algoritmos e Programação 1 do curso de Ciência da Computação, na Universidade Federal de Jataí (UFJ).
 __________
 ## Provas
-<img src="https://github.com/AguineloP/Images/blob/main/pokeballs.gif" alt="Ícone" width="19" height="19" align="center"> [Prova 1](https://github.com/AguineloP/AP1/blob/5246757c194d4cd0ad9164311433889f466ef3dc/Provas/Prova1%20-%20AP1.c)
-<img src="https://github.com/AguineloP/Images/blob/main/pokeballs.gif" alt="Ícone" width="19" height="19" align="center"> [PDF Prova](https://github.com/AguineloP/AP1/blob/main/Provas/Prova%2001%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf)
+<img src="https://github.com/AguineloP/Images/blob/main/pokeballs.gif" alt="Ícone" width="19" height="19" align="center"> [Prova 1](https://github.com/AguineloP/AP1/blob/main/Provas/Prova1%20-%20AP1.c)
+<img src="https://github.com/AguineloP/Images/blob/main/pokeballs.gif" alt="Ícone" width="19" height="19" align="center"> [PDF Prova](https://github.com/AguineloP/AP1/blob/main/Provas/Prova%2001%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf) <br><br>
+<img src="https://github.com/AguineloP/Images/blob/main/pokeballs.gif" alt="Ícone" width="19" height="19" align="center"> [Prova 2](https://github.com/AguineloP/AP1/blob/main/Provas/Prova2%20-%20AP1.c)
+<img src="https://github.com/AguineloP/Images/blob/main/pokeballs.gif" alt="Ícone" width="19" height="19" align="center"> [PDF Prova](https://github.com/AguineloP/AP1/blob/main/Provas/Prova%2002%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf)
 
 __________
 ## Lista 1
